@@ -589,6 +589,7 @@ header .drawer-hamburger-icon::before, header .drawer-hamburger-icon::after {
   background: url(https://soramm.github.io/myportfolio2/img/PC/contact.png);
   background-size: cover;
   padding-top: 72px;
+  padding-bottom:60px;
 }
 
 @media screen and (max-width: 767px) {
