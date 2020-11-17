@@ -183,14 +183,14 @@ header .drawer-hamburger-icon::before, header .drawer-hamburger-icon::after {
 
 @media screen and (min-width: 768px) {
   .top-picture {
-    background: url(/img/PC/top.png) top right/82.5% no-repeat;
+    background: url(https://soramm.github.io/myportfolio2/img/PC/top.png) top right/82.5% no-repeat;
     padding-top: 55%;
   }
 }
 
 @media screen and (max-width: 767px) {
   .top-picture {
-    background: url(/img/SP/top.png) center center/cover;
+    background: url(https://soramm.github.io/myportfolio2/img/SP/top.png) center center/cover;
     padding-top: 120%;
   }
 }
@@ -310,7 +310,7 @@ header .drawer-hamburger-icon::before, header .drawer-hamburger-icon::after {
 
 @media screen and (min-width: 768px) {
   .about {
-    background-image: url(/img/PC/bg.png);
+    background-image: url(https://soramm.github.io/myportfolio2/img/PC/bg.png);
     background-size: cover;
     margin-top: 140px;
   }
@@ -318,7 +318,7 @@ header .drawer-hamburger-icon::before, header .drawer-hamburger-icon::after {
 
 @media screen and (max-width: 767px) {
   .about {
-    background: url(/img/SP/bg.png);
+    background: url(https://soramm.github.io/myportfolio2/img/SP/bg.png);
     background-size: cover;
     margin-top: 96px;
   }
@@ -586,7 +586,7 @@ header .drawer-hamburger-icon::before, header .drawer-hamburger-icon::after {
 
 /* contact */
 .contact {
-  background: url(/img/PC/contact.png);
+  background: url(https://soramm.github.io/myportfolio2/img/PC/contact.png);
   background-size: cover;
   padding-top: 72px;
 }
